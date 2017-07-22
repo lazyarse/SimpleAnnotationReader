@@ -1,0 +1,11 @@
+{
+    "name": "lazyarse/simple-annotation-reader",
+    "description": "A simple annotation parser for PHP doc blocks",
+    "authors": [
+        {
+            "name": "lazyarse",
+            "email": "30371396+lazyarse@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
