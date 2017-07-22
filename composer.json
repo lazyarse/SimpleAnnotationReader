@@ -1,5 +1,5 @@
 {
-    "name": "lazyarse/simple-annotation-reader",
+    "name": "lazyarse/SimpleAnnotationReader",
     "description": "A simple annotation parser for PHP doc blocks",
     "authors": [
         {
